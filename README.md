@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![limsubinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsubinn)
+![limsubinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsubinn&show_icons=true&theme=algolia")
 <!--
 **limsubinn/limsubinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
