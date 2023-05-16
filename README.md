@@ -6,4 +6,4 @@
 를 관심있게 공부하고 있으며, <br/>
 공부한 내용은 <a href="https://sssbin.tistory.com/">기술 블로그</a>에 기록하고 있어요. <br/>
 
-![limsubinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsubinn&show_icons=true&theme=algolia")
+![limsubinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsubinn&count_private=true&show_icons=true&theme=algolia")
