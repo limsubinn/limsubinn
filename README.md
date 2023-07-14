@@ -10,4 +10,4 @@
 
 ![limsubinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=limsubinn&show_icons=true)
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mymyx02)](https://solved.ac/mymyx02)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mymyx02)](https://solved.ac/mymyx02)
